@@ -1,0 +1,7 @@
+model,direction,R@1,bootstrap_CI_low,bootstrap_CI_high
+InfoNCE,i2t,0.334,0.294,0.378
+InfoNCE,t2i,0.2689,0.2517,0.2849
+Triplet Ranking,i2t,0.33,0.29,0.37
+Triplet Ranking,t2i,0.2928,0.2753,0.3112
+Early Fusion,i2t,0.128,0.1,0.158
+Early Fusion,t2i,0.0995,0.0887,0.1115

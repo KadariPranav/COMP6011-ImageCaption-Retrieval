@@ -1,0 +1,15 @@
+# Inputs may contain third-party dataset artifacts and should not be pushed
+multimodal_shared_data*.zip
+individual_coco_extracted/
+shared_data/
+*.pt
+*.pth
+*.ckpt
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+venv/
+.venv/
+# Large generated outputs
+individual_coco_results/
